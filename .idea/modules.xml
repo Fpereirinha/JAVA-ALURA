@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-alura.iml" filepath="$PROJECT_DIR$/java-alura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-sintaxe/java-sintaxe.iml" filepath="$PROJECT_DIR$/java-sintaxe/java-sintaxe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" filepath="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" />
+    </modules>
+  </component>
+</project>
