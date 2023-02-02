@@ -50,16 +50,9 @@
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.testeSomatoria">
+  <component name="RunManager" selected="Application.testeFor">
     <configuration name="testaCondicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testaCondicional" />
-      <module name="sintaxe-variaveis-e-fluxo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testaConversao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testaConversao" />
       <module name="sintaxe-variaveis-e-fluxo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testeFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeFor" />
+      <module name="sintaxe-variaveis-e-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testeSomatoria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testeSomatoria" />
       <module name="sintaxe-variaveis-e-fluxo" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testeFor" />
         <item itemvalue="Application.testeSomatoria" />
         <item itemvalue="Application.testandoWhile" />
         <item itemvalue="Application.testaCondicional" />
         <item itemvalue="Application.testaValores" />
-        <item itemvalue="Application.testaConversao" />
       </list>
     </recent_temporary>
   </component>
