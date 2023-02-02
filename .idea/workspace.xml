@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/src/testeSomatoria.java" afterDir="false" />
+    <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
+      <change afterPath="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/src/testeLacos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +51,9 @@
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.testeFor">
+  <component name="RunManager" selected="Application.testeLacos">
     <configuration name="testaCondicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testaCondicional" />
-      <module name="sintaxe-variaveis-e-fluxo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testaValores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testaValores" />
       <module name="sintaxe-variaveis-e-fluxo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testeLacos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeLacos" />
+      <module name="sintaxe-variaveis-e-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testeSomatoria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testeSomatoria" />
       <module name="sintaxe-variaveis-e-fluxo" />
@@ -88,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testeLacos" />
         <item itemvalue="Application.testeFor" />
         <item itemvalue="Application.testeSomatoria" />
         <item itemvalue="Application.testandoWhile" />
         <item itemvalue="Application.testaCondicional" />
-        <item itemvalue="Application.testaValores" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +106,21 @@
       <option name="presentableId" value="Default" />
       <updated>1675344795305</updated>
     </task>
+    <task id="LOCAL-00001" summary="novo exercicio">
+      <created>1675364380276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675364380276</updated>
+    </task>
+    <task id="LOCAL-00002" summary="novo exercicio">
+      <created>1675364467274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675364467274</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,5 +133,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="novo exercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="novo exercicio" />
   </component>
 </project>
