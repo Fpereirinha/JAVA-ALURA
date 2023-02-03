@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/criaClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/criaClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-oo/src/testaReferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.criaClasse">
+  <component name="RunManager" selected="Application.testaReferencia">
     <configuration name="criaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="criaClasse" />
       <module name="JAVA-oo" />
@@ -58,9 +59,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testandoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testandoWhile" />
-      <module name="sintaxe-variaveis-e-fluxo" />
+    <configuration name="testaReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testaReferencia" />
+      <module name="JAVA-oo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testaReferencia" />
         <item itemvalue="Application.criaClasse" />
         <item itemvalue="Application.testeLacos" />
         <item itemvalue="Application.testeFor" />
         <item itemvalue="Application.testeSomatoria" />
-        <item itemvalue="Application.testandoWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675435234621</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="novo exercicio">
+      <created>1675435820667</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675435820667</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
