@@ -12,5 +12,7 @@ public class testaMetodo {
         Pedro.transfere(Gabriel, 50);
         System.out.println(Pedro.saldo);
         System.out.println(Gabriel.saldo);
+        System.out.println(Pedro.getSaldo());
+        Pedro.setNumero("22");
     }
 }

@@ -20,4 +20,14 @@ public class Conta {
             conta.deposita(valor);
         }
     }
+    //Getter
+
+    public double getSaldo(){
+        return this.saldo;
+    }
+
+    //Setter
+    public void setNumero(String numero){
+        this.numero = numero;
+    }
 }

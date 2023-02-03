@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change afterPath="$PROJECT_DIR$/JAVA-oo/src/testaBanco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/criaClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/criaClasse.java" afterDir="false" />
-    </list>
+    <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675442785732</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="novo exercicio">
+      <created>1675443139687</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675443139687</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
