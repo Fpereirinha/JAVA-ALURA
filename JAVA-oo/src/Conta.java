@@ -3,4 +3,12 @@ public class Conta {
     String agencia;
     String numero;
     String titular;
+    void deposita(double valor){
+        this.saldo += valor;
+    }
+    void saca (double valor){
+        if(valor <= this.saldo){
+            this.saldo -= valor;
+        }
+    }
 }
