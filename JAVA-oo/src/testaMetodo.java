@@ -8,5 +8,9 @@ public class testaMetodo {
         System.out.println(Pedro.saldo);
         Pedro.saca(50);
         System.out.println(Pedro.saldo);
+        Conta Gabriel = new Conta();
+        Pedro.transfere(Gabriel, 50);
+        System.out.println(Pedro.saldo);
+        System.out.println(Gabriel.saldo);
     }
 }

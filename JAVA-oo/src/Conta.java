@@ -11,4 +11,10 @@ public class Conta {
             this.saldo -= valor;
         }
     }
+    void transfere(Conta conta, double valor){
+        if (this.saldo >= valor){
+            this.saldo -= valor;
+            conta.deposita(valor);
+        }
+    }
 }
