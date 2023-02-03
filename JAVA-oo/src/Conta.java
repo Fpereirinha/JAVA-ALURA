@@ -3,12 +3,15 @@ public class Conta {
     String agencia;
     String numero;
     String titular;
-    void deposita(double valor){
+    public void deposita(double valor){
         this.saldo += valor;
     }
-    void saca (double valor){
+    public boolean saca (double valor){
         if(valor <= this.saldo){
             this.saldo -= valor;
+            return true;
+        }else{
+            return false;
         }
     }
     void transfere(Conta conta, double valor){
