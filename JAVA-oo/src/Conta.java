@@ -1,33 +1,36 @@
 public class Conta {
-    double saldo;
+    private double saldo;
     String agencia;
     String numero;
     Pessoa titular;
-    public void deposita(double valor){
+
+    public void deposita(double valor) {
         this.saldo += valor;
     }
-    public boolean saca (double valor){
-        if(valor <= this.saldo){
+
+    public boolean saca(double valor) {
+        if (valor <= this.saldo) {
             this.saldo -= valor;
             return true;
-        }else{
+        } else {
             return false;
         }
     }
-    void transfere(Conta conta, double valor){
-        if (this.saldo >= valor){
+
+    void transfere(Conta conta, double valor) {
+        if (this.saldo >= valor) {
             this.saldo -= valor;
             conta.deposita(valor);
         }
     }
     //Getter
 
-    public double getSaldo(){
+    public double getSaldo() {
         return this.saldo;
     }
 
     //Setter
-    public void setNumero(String numero){
+    public void setNumero(String numero) {
         this.numero = numero;
     }
 }

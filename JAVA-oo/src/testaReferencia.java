@@ -1,17 +1,14 @@
 public class testaReferencia {
     public static void main(String[] args) {
         Conta primeiraConta = new Conta();
-        primeiraConta.saldo = 200;
-        System.out.println(primeiraConta.saldo);
+        System.out.println(primeiraConta.getSaldo());
 
-        primeiraConta.saldo += 100;
-        System.out.println(primeiraConta.saldo);
+        System.out.println(primeiraConta.getSaldo());
 
         Conta segundaConta = new Conta();
-        segundaConta.saldo = 300;
 
-        System.out.println("primeira conta tem " + primeiraConta.saldo);
-        System.out.println("segunda conta tem " + segundaConta.saldo);
+        System.out.println("primeira conta tem " + primeiraConta.getSaldo());
+        System.out.println("segunda conta tem " + segundaConta.getSaldo());
 
         segundaConta.agencia = "146";
         System.out.println(primeiraConta.agencia);
@@ -22,7 +19,7 @@ public class testaReferencia {
         segundaConta.agencia = "146";
         System.out.println("agora a segunda conta está na agencia " + segundaConta.agencia);
 
-        if(primeiraConta == segundaConta) {
+        if (primeiraConta == segundaConta) {
             System.out.println("mesma conta");
         } else {
             System.out.println("contas diferentes");
