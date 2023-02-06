@@ -1,9 +1,9 @@
 public class pessoaFisica {
     private String nome;
-    private static int total;
+
 
     public pessoaFisica(String nome, String id, String CPF) {
-        total++;
+
         this.nome = nome;
         this.id = id;
         this.CPF = CPF;

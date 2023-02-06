@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
+      <change afterPath="$PROJECT_DIR$/JAVA-oo/JAVA-oo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-polimorfismo/java-polimorfismo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-polimorfismo/src/funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-polimorfismo/src/gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-polimorfismo/src/testeFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-polimorfismo/src/testeGerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA-oo/src/pessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/pessoaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testaReferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/testaReferencia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +47,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
     &quot;last_opened_file_path&quot;: &quot;A:/java-alura&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
@@ -46,28 +56,19 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\java-alura\java-polimorfismo\src" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.testePrivate">
-    <configuration name="criaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="criaClasse" />
-      <module name="JAVA-oo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.testeGerente">
     <configuration name="testaBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testaBanco" />
-      <module name="JAVA-oo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testaMetodo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testaMetodo" />
       <module name="JAVA-oo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,6 +77,20 @@
     <configuration name="testaReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testaReferencia" />
       <module name="JAVA-oo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeFuncionario" />
+      <module name="java-polimorfismo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeGerente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeGerente" />
+      <module name="java-polimorfismo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testeGerente" />
+        <item itemvalue="Application.testeFuncionario" />
+        <item itemvalue="Application.testaReferencia" />
         <item itemvalue="Application.testePrivate" />
         <item itemvalue="Application.testaBanco" />
-        <item itemvalue="Application.testaMetodo" />
-        <item itemvalue="Application.testaReferencia" />
-        <item itemvalue="Application.criaClasse" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675447942915</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="novo exercicio">
+      <created>1675448950635</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675448950636</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
