@@ -3,11 +3,9 @@ public abstract class funcionario {
     private String CPF;
     protected double salario;
 
-    public double getBonificacao(double valor) {
-        double salar = this.salario;
-        this.salario *= (valor + 1);
-        return salar * valor;
-    }
+    public abstract double getBonificacao();
+
+
 
     public funcionario(String nome, String CPF, double salario) {
         this.nome = nome;

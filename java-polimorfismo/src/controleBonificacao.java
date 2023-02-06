@@ -11,7 +11,7 @@ public class controleBonificacao {
     }
 
     public void registra(funcionario f) {
-        double valor = f.getBonificacao(.1);
+        double valor = f.getBonificacao();
         this.soma += valor;
     }
 
