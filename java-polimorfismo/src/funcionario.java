@@ -4,7 +4,6 @@ public abstract class funcionario {
     protected double salario;
 
 
-
     public abstract double getBonificacao();
 
 

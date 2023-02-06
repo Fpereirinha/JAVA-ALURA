@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change afterPath="$PROJECT_DIR$/java-polimorfismo/src/administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-polimorfismo/src/autenticacaoClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-polimorfismo/src/system.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-polimorfismo/src/testeSistema.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/administrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/autenticacaoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/autenticacaoClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/controleBonificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/controleBonificacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/testeGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/testeGerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/testeSistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/testeSistema.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675702870830</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="novo exercicio">
+      <created>1675706662645</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1675706662645</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

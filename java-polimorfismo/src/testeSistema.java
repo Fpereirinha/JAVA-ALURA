@@ -7,5 +7,11 @@ public class testeSistema {
         administrador adm = new administrador();
         adm.setSenha(222);
         s.autentica(adm);
+        cliente c = new cliente();
+        c.setSenha(333);
+        s.autentica(c);
+        autenticacao teste = new cliente();
+        teste.setSenha(333);
+        s.autentica(teste);
     }
 }
