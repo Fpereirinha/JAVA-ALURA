@@ -12,7 +12,7 @@ public class contaCorrente extends Conta implements calculaImpostos {
 
 
     public double getImposto() {
-        return this.imposto.getImposto();
+        return this.imposto.getTotalImposto(this.saldo);
     }
 
 
@@ -22,6 +22,7 @@ public class contaCorrente extends Conta implements calculaImpostos {
 
     public void passaMes() {
         System.out.println("Conta corrente não rende !");
+        this.setSaldo(this.saldo - this.imposto.getTotalImposto(this.saldo));
     }
 
     @Override
