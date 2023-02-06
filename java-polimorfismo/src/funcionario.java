@@ -1,11 +1,11 @@
 public class funcionario {
     private String nome;
     private String CPF;
-    private double salario;
+    protected double salario;
 
-    public double getBonificacao(double valor){
+    public double getBonificacao(double valor) {
         double salar = this.salario;
-        this.salario *= (valor+1);
+        this.salario *= (valor + 1);
         return salar * valor;
     }
 
@@ -18,9 +18,11 @@ public class funcionario {
     public funcionario() {
 
     }
-    public String getAll(){
+
+    public String getAll() {
         return (this.nome + " " + this.CPF + " " + this.salario);
     }
+
     public String getNome() {
         return nome;
     }

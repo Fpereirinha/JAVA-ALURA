@@ -5,6 +5,7 @@ public class testeGerente {
         System.out.println(Pedro.autentica(312));
         Pedro.setSenha(43929336);
         System.out.println(Pedro.autentica(43929336));
+        System.out.println(Pedro.getBonificacao());
 
     }
 

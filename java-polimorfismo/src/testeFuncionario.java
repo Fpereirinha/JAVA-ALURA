@@ -6,7 +6,7 @@ public class testeFuncionario {
         System.out.println(Pedro.getSalario());
         System.out.println(Pedro.getBonificacao(.01));
         System.out.println(Pedro.getSalario());
-        funcionario Joao = new funcionario("Joao", "4554456",2000);
+        funcionario Joao = new funcionario("Joao", "4554456", 2000);
         System.out.println(Joao.getSalario());
         Joao.getBonificacao(.01);
         System.out.println(Joao.getSalario());
