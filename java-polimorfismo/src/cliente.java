@@ -1,14 +1,16 @@
 public class cliente implements autenticacao {
-    private int senha;
-
+    private autenticacaoI base;
+    public cliente(){
+        this.base = new autenticacaoI();
+    }
     @Override
     public void setSenha(int senha) {
-        this.senha = senha;
+        this.base.setSenha(senha);
 
     }
 
     @Override
     public boolean autentica(int senha) {
-        return senha == this.senha;
+        return this.base.autentica(senha);
     }
 }

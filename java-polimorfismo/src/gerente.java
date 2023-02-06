@@ -1,12 +1,14 @@
 public class gerente extends funcionario implements autenticacao {
     private final double bonificacao = .1;
-    private int senha;
+    private autenticacaoI base;
 
     public gerente(String nome, String CPF, double salario) {
         super(nome, CPF, salario);
+        this.base = new autenticacaoI();
     }
 
     public gerente() {
+        this.base = new autenticacaoI();
     }
 
 
@@ -16,11 +18,11 @@ public class gerente extends funcionario implements autenticacao {
 
     @Override
     public void setSenha(int senha) {
-        this.senha = senha;
+        this.base.setSenha(senha);
     }
 
     @Override
     public boolean autentica(int senha) {
-        return this.senha == senha;
+        return this.base.autentica(senha);
     }
 }

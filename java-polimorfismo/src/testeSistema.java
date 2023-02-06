@@ -13,5 +13,8 @@ public class testeSistema {
         autenticacao teste = new cliente();
         teste.setSenha(333);
         s.autentica(teste);
+        gerente TesteAuth = new gerente("pedro", "4564654", 10000);
+        TesteAuth.setSenha(2223);
+        s.autentica(TesteAuth);
     }
 }

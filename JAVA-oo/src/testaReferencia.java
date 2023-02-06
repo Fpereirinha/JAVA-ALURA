@@ -27,6 +27,6 @@ public class testaReferencia {
 
         System.out.println(primeiraConta);
         System.out.println(segundaConta);
-        System.out.println(primeiraConta.getTotal());
+        System.out.println(Conta.getTotal());
     }
 }
