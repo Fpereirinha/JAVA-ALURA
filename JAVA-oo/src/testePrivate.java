@@ -1,6 +1,6 @@
 public class testePrivate {
     public static void main(String[] args) {
-        Conta conta = new Conta();
+        Conta conta = new contaCorrente();
         conta.titular = new Pessoa();
         conta.titular.nome = "Pedro";
         conta.deposita(100);

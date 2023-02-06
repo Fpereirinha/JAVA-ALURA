@@ -1,11 +1,11 @@
 public class testaReferencia {
     public static void main(String[] args) {
-        Conta primeiraConta = new Conta();
+        Conta primeiraConta = new contaCorrente();
         System.out.println(primeiraConta.getSaldo());
 
         System.out.println(primeiraConta.getSaldo());
 
-        Conta segundaConta = new Conta();
+        Conta segundaConta = new contaCorrente();
 
         System.out.println("primeira conta tem " + primeiraConta.getSaldo());
         System.out.println("segunda conta tem " + segundaConta.getSaldo());

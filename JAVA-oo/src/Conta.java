@@ -1,4 +1,4 @@
-public class Conta {
+public abstract class Conta {
     protected double saldo;
     String agencia;
     String numero;

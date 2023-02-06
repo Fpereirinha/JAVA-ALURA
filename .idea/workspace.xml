@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/controleBonificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/controleBonificacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/testeFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/testeFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testaReferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/testaReferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testePrivate.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/testePrivate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.testeContas">
+  <component name="RunManager" selected="Application.testeReferencias">
     <configuration name="testaReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testaReferencia" />
       <module name="JAVA-oo" />
@@ -97,8 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.testeContas" />
         <item itemvalue="Application.testeReferencias" />
+        <item itemvalue="Application.testeContas" />
         <item itemvalue="Application.testeGerente" />
         <item itemvalue="Application.testeFuncionario" />
         <item itemvalue="Application.testaReferencia" />
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675694754404</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="novo exercicio">
+      <created>1675702300990</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675702300990</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

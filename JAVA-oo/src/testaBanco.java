@@ -4,7 +4,7 @@ public class testaBanco {
         Paulo.nome = "Paulo S.";
         Paulo.CPF = "54546546545";
         Paulo.profissao = "Professor";
-        Conta contaDoPaulo = new Conta();
+        Conta contaDoPaulo = new contaCorrente();
         contaDoPaulo.deposita(100);
         contaDoPaulo.titular = Paulo;
         System.out.println(contaDoPaulo.titular.nome);

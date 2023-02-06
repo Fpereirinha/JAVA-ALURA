@@ -1,6 +1,6 @@
 public class testaMetodo {
     public static void main(String[] args) {
-        Conta Pedro = new Conta();
+        Conta Pedro = new contaCorrente();
         System.out.println(Pedro.getSaldo());
         Pedro.deposita(100);
         System.out.println(Pedro.getSaldo());
@@ -8,7 +8,7 @@ public class testaMetodo {
         System.out.println(Pedro.getSaldo());
         Pedro.saca(50);
         System.out.println(Pedro.getSaldo());
-        Conta Gabriel = new Conta();
+        Conta Gabriel = new contaCorrente();
         Pedro.transfere(Gabriel, 50);
         System.out.println(Pedro.getSaldo());
         System.out.println(Gabriel.getSaldo());
