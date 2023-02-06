@@ -1,7 +1,31 @@
 public class Conta {
-    private double saldo;
+    protected double saldo;
     String agencia;
     String numero;
+
+    public void setSaldo(double saldo) {
+        this.saldo = saldo;
+    }
+
+    public String getAgencia() {
+        return agencia;
+    }
+
+    public void setAgencia(String agencia) {
+        this.agencia = agencia;
+    }
+
+    public String getNumero() {
+        return numero;
+    }
+
+    public Pessoa getTitular() {
+        return titular;
+    }
+
+    public void setTitular(Pessoa titular) {
+        this.titular = titular;
+    }
 
     public Conta(double saldo, String agencia, String numero, Pessoa titular) {
         total++;
@@ -52,4 +76,5 @@ public class Conta {
     public static int getTotal() {
         return total;
     }
+
 }
