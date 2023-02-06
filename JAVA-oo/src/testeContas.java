@@ -8,6 +8,9 @@ public class testeContas {
         cp.passaMes();
         System.out.println(cc.getSaldo());
         System.out.println(cp.getSaldo());
-
+        cp.transfere(cc, 500);
+        System.out.println(cc.getSaldo() + " " + cp.getSaldo());
+        cc.saca(10);
+        System.out.println(cc.getSaldo());
     }
 }
