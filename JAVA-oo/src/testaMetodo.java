@@ -1,5 +1,5 @@
 public class testaMetodo {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws minhaExcecao {
         Conta Pedro = new contaCorrente();
         System.out.println(Pedro.getSaldo());
         Pedro.deposita(100);

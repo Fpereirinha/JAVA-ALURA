@@ -4,7 +4,9 @@ public class Pessoa {
         this.CPF = CPF;
         this.profissao = profissao;
     }
-    public Pessoa(){}
+
+    public Pessoa() {
+    }
 
     String nome;
     String CPF;

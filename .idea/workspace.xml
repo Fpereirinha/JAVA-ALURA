@@ -5,13 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change afterPath="$PROJECT_DIR$/JAVA-oo/src/seguroVida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA-oo/src/testeImpostos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-oo/src/minhaExcecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-oo/src/testeSaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-pilha/java-pilha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-pilha/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-pilha/src/conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-pilha/src/fluxo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-pilha/src/fluxoComTratamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-pilha/src/minhaExcecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-pilha/src/testeConexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-pilha/src/testeExcecao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/calculaImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/calculaImpostos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA-oo/src/calculaImpostosI.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/calculaImpostosI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA-oo/src/contaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/contaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testaMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/testaMetodo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +50,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "A:/java-alura",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;A:/java-alura&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\java-alura\java-pilha\src" />
       <recent name="A:\java-alura\java-polimorfismo\src" />
     </key>
   </component>
@@ -62,7 +75,21 @@
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.testeImpostos">
+  <component name="RunManager" selected="Application.testeConexao">
+    <configuration name="fluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fluxo" />
+      <module name="java-pilha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeConexao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeConexao" />
+      <module name="java-pilha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testeContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testeContas" />
       <module name="JAVA-oo" />
@@ -70,41 +97,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testeGerente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testeGerente" />
-      <module name="java-polimorfismo" />
+    <configuration name="testeExcecao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeExcecao" />
+      <module name="java-pilha" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testeImpostos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testeImpostos" />
+    <configuration name="testeSaca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeSaca" />
       <module name="JAVA-oo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testeReferencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testeReferencias" />
-      <module name="java-polimorfismo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testeSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testeSistema" />
-      <module name="java-polimorfismo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.testeImpostos" />
-        <item itemvalue="Application.testeSistema" />
-        <item itemvalue="Application.testeReferencias" />
+        <item itemvalue="Application.testeConexao" />
+        <item itemvalue="Application.testeSaca" />
+        <item itemvalue="Application.testeExcecao" />
+        <item itemvalue="Application.fluxo" />
         <item itemvalue="Application.testeContas" />
-        <item itemvalue="Application.testeGerente" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675711936480</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="novo exercicio">
+      <created>1675714239993</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1675714239993</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -47,20 +47,19 @@ public abstract class Conta {
         this.saldo += valor;
     }
 
-    public boolean saca(double valor) {
+    public void saca(double valor) throws minhaExcecao {
         if (valor <= this.saldo) {
             this.saldo -= valor;
-            return true;
         } else {
-            return false;
+            throw new minhaExcecao("Saldo insuficiente");
         }
     }
 
-    void transfere(Conta conta, double valor) {
-        if (this.saldo >= valor && valor > 0) {
-            this.saldo -= valor;
-            conta.deposita(valor);
-        }
+    void transfere(Conta conta, double valor) throws minhaExcecao {
+
+        this.saca(valor);
+        conta.deposita(valor);
+
     }
     //Getter
 
