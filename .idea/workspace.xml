@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA-oo/src/minhaExcecao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA-oo/src/testeSaca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-pilha/java-pilha.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-pilha/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-pilha/src/conexao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-pilha/src/fluxo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-pilha/src/fluxoComTratamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-pilha/src/minhaExcecao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-pilha/src/testeConexao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-pilha/src/testeExcecao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/calculaImpostosI.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/calculaImpostosI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/contaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/contaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testaMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/testaMetodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/administrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/autenticacaoI.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/autenticacaoI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-polimorfismo/src/testeGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-polimorfismo/src/testeGerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675714239993</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="novo exercicio">
+      <created>1675876524427</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1675876524427</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

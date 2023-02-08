@@ -1,7 +1,8 @@
 public class administrador extends funcionario implements autenticacao {
 
-    private autenticacaoI base;
-    public administrador(){
+    private final autenticacaoI base;
+
+    public administrador() {
         this.base = new autenticacaoI();
     }
 

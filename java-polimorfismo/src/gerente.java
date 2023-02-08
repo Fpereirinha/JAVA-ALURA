@@ -1,6 +1,6 @@
 public class gerente extends funcionario implements autenticacao {
     private final double bonificacao = .1;
-    private autenticacaoI base;
+    private final autenticacaoI base;
 
     public gerente(String nome, String CPF, double salario) {
         super(nome, CPF, salario);

@@ -1,5 +1,6 @@
-public class autenticacaoI{
+public class autenticacaoI {
     private int senha;
+
     public void setSenha(int senha) {
         this.senha = senha;
     }
