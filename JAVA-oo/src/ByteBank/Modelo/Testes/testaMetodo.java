@@ -1,7 +1,7 @@
 package ByteBank.Modelo.Testes;
 
-import ByteBank.Modelo.contaCorrente;
 import ByteBank.Modelo.Conta;
+import ByteBank.Modelo.contaCorrente;
 import ByteBank.Modelo.minhaExcecao;
 
 public class testaMetodo {

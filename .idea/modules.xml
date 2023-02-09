@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-polimorfismo/java-polimorfismo.iml" filepath="$PROJECT_DIR$/java-polimorfismo/java-polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-sintaxe/java-sintaxe.iml" filepath="$PROJECT_DIR$/java-sintaxe/java-sintaxe.iml" />
       <module fileurl="file://$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" filepath="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeLibs/testeLibs.iml" filepath="$PROJECT_DIR$/testeLibs/testeLibs.iml" />
     </modules>
   </component>
 </project>

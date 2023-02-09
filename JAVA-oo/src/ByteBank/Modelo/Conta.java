@@ -1,5 +1,11 @@
 package ByteBank.Modelo;
 
+/**
+ * Classe para ser herdada de vários tipos de contas
+ * @author Pedro Fernandes
+ * @version 1.1.1
+ *
+ */
 public abstract class Conta {
     protected double saldo;
     String agencia;
@@ -29,6 +35,13 @@ public abstract class Conta {
         this.titular = titular;
     }
 
+    /**
+     *
+     * @param saldo = saldo da conta inicial
+     * @param agencia = agencia da conta
+     * @param numero = numero da conta
+     * @param titular = titular da conta
+     */
     public Conta(double saldo, String agencia, String numero, Pessoa titular) {
         total++;
         this.saldo = saldo;
@@ -45,6 +58,10 @@ public abstract class Conta {
     public Pessoa titular;
     private static int total;
 
+    /**
+     *
+     * @param valor = valor para saque
+     */
     public void deposita(double valor) {
         this.saldo += valor;
     }
