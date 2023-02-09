@@ -1,8 +1,8 @@
-package Banco.Modelo.Testes;
+package ByteBank.Modelo.Testes;
 
-import Banco.Modelo.Conta;
-import Banco.Modelo.contaCorrente;
-import Banco.Modelo.minhaExcecao;
+import ByteBank.Modelo.contaCorrente;
+import ByteBank.Modelo.Conta;
+import ByteBank.Modelo.minhaExcecao;
 
 public class testaMetodo {
     public static void main(String[] args) throws minhaExcecao {

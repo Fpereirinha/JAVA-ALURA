@@ -1,4 +1,4 @@
-package Banco.Modelo;
+package ByteBank.Modelo;
 
 public class minhaExcecao extends Exception {
     public minhaExcecao(String s) {

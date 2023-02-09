@@ -1,8 +1,8 @@
-package Banco.Modelo.Testes;
+package ByteBank.Modelo.Testes;
 
-import Banco.Modelo.Pessoa;
-import Banco.Modelo.contaCorrente;
-import Banco.Modelo.seguroVida;
+import ByteBank.Modelo.Pessoa;
+import ByteBank.Modelo.contaCorrente;
+import ByteBank.Modelo.seguroVida;
 
 public class testeImpostos {
     public static void main(String[] args) {

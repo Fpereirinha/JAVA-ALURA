@@ -1,7 +1,7 @@
-package Banco.Modelo.Testes;
+package ByteBank.Modelo.Testes;
 
-import Banco.Modelo.Conta;
-import Banco.Modelo.contaCorrente;
+import ByteBank.Modelo.Conta;
+import ByteBank.Modelo.contaCorrente;
 
 public class testaReferencia {
     public static void main(String[] args) {

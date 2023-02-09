@@ -1,4 +1,4 @@
-package Banco.Modelo;
+package ByteBank.Modelo;
 
 public class pessoaFisica {
     private String nome;

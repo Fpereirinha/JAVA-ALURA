@@ -1,4 +1,4 @@
-package Banco.Modelo;
+package ByteBank.Modelo;
 
 public class contaCorrente extends Conta implements calculaImpostos {
     private final calculaImpostosI imposto;

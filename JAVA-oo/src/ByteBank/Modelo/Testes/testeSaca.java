@@ -1,6 +1,6 @@
-package Banco.Modelo.Testes;
+package ByteBank.Modelo.Testes;
 
-import Banco.Modelo.contaCorrente;
+import ByteBank.Modelo.contaCorrente;
 
 public class testeSaca {
     public static void main(String[] args) {

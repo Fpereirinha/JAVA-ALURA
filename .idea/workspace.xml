@@ -5,24 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/calculaImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/calculaImpostos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/calculaImpostosI.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/calculaImpostosI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/contaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/contaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/contaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/contaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/criaClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/criaClasse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/minhaExcecao.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/minhaExcecao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/pessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/pessoaFisica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/seguroVida.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/seguroVida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testaBanco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testaMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testaMetodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testaReferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testaReferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testeContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testeContas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testeImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testeImpostos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testePrivate.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testePrivate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/testeSaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testeSaca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testaBanco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testaMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testaMetodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testaReferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testaReferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testeContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testeContas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testeImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testeImpostos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testePrivate.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testePrivate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/Testes/testeSaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testeSaca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/calculaImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/calculaImpostos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/calculaImpostosI.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/calculaImpostosI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/contaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/contaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/contaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/contaPoupanca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/criaClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/criaClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/minhaExcecao.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/minhaExcecao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/pessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/pessoaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/Banco/Modelo/seguroVida.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/seguroVida.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675876837649</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="novo exercicio">
+      <created>1675959109653</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1675959109653</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

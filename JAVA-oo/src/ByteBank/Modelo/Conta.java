@@ -1,4 +1,4 @@
-package Banco.Modelo;
+package ByteBank.Modelo;
 
 public abstract class Conta {
     protected double saldo;

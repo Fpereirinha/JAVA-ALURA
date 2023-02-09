@@ -1,4 +1,4 @@
-package Banco.Modelo;
+package ByteBank.Modelo;
 
 public class seguroVida implements calculaImpostos {
 

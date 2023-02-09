@@ -1,4 +1,4 @@
-package Banco.Modelo;
+package ByteBank.Modelo;
 
 public class contaPoupanca extends Conta {
     public contaPoupanca(double saldo, String agencia, String numero, Pessoa titular) {
