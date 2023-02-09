@@ -1,3 +1,5 @@
+package Banco.Modelo;
+
 public class calculaImpostosI {
     private double imposto;
 

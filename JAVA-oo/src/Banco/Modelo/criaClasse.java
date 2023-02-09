@@ -1,3 +1,5 @@
+package Banco.Modelo;
+
 public class criaClasse {
     public static void main(String[] args) {
         Conta Pedro = new contaCorrente();

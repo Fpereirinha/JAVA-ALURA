@@ -1,3 +1,5 @@
+package Banco.Modelo;
+
 public class contaCorrente extends Conta implements calculaImpostos {
     private final calculaImpostosI imposto;
 
@@ -21,7 +23,7 @@ public class contaCorrente extends Conta implements calculaImpostos {
     }
 
     public void passaMes() {
-        System.out.println("Conta corrente não rende !");
+        System.out.println("Modelo.Conta corrente não rende !");
         this.setSaldo(this.saldo - this.imposto.getTotalImposto(this.saldo));
     }
 

@@ -1,3 +1,5 @@
+package Banco.Modelo;
+
 public class Pessoa {
     public Pessoa(String nome, String CPF, String profissao) {
         this.nome = nome;
@@ -8,7 +10,7 @@ public class Pessoa {
     public Pessoa() {
     }
 
-    String nome;
-    String CPF;
-    String profissao;
+    public String nome;
+    public String CPF;
+    public String profissao;
 }

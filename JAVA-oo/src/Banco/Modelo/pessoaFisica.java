@@ -1,3 +1,5 @@
+package Banco.Modelo;
+
 public class pessoaFisica {
     private String nome;
 

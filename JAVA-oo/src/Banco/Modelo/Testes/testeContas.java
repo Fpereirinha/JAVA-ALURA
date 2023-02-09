@@ -1,5 +1,11 @@
+package Banco.Modelo.Testes;
+
+import Banco.Modelo.contaCorrente;
+import Banco.Modelo.contaPoupanca;
+import Banco.Modelo.minhaExcecao;
+
 public class testeContas {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws minhaExcecao {
         contaCorrente cc = new contaCorrente();
         cc.setSaldo(1000);
         contaPoupanca cp = new contaPoupanca();

@@ -1,3 +1,9 @@
+package Banco.Modelo.Testes;
+
+import Banco.Modelo.Conta;
+import Banco.Modelo.Pessoa;
+import Banco.Modelo.contaCorrente;
+
 public class testePrivate {
     public static void main(String[] args) {
         Conta conta = new contaCorrente();

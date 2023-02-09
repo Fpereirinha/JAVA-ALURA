@@ -1,3 +1,7 @@
+package Banco.Modelo.Testes;
+
+import Banco.Modelo.contaCorrente;
+
 public class testeSaca {
     public static void main(String[] args) {
         contaCorrente c = new contaCorrente();

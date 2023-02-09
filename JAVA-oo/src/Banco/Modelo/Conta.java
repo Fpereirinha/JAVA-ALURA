@@ -1,3 +1,5 @@
+package Banco.Modelo;
+
 public abstract class Conta {
     protected double saldo;
     String agencia;
@@ -40,7 +42,7 @@ public abstract class Conta {
 
     }
 
-    Pessoa titular;
+    public Pessoa titular;
     private static int total;
 
     public void deposita(double valor) {
@@ -55,7 +57,7 @@ public abstract class Conta {
         }
     }
 
-    void transfere(Conta conta, double valor) throws minhaExcecao {
+    public void transfere(Conta conta, double valor) throws minhaExcecao {
 
         this.saca(valor);
         conta.deposita(valor);

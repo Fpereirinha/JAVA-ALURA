@@ -1,3 +1,5 @@
+package Banco.Modelo;
+
 public class contaPoupanca extends Conta {
     public contaPoupanca(double saldo, String agencia, String numero, Pessoa titular) {
         super(saldo, agencia, numero, titular);

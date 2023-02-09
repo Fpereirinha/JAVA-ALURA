@@ -1,3 +1,9 @@
+package Banco.Modelo.Testes;
+
+import Banco.Modelo.Conta;
+import Banco.Modelo.contaCorrente;
+import Banco.Modelo.minhaExcecao;
+
 public class testaMetodo {
     public static void main(String[] args) throws minhaExcecao {
         Conta Pedro = new contaCorrente();

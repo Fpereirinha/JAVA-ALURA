@@ -1,3 +1,8 @@
+package Banco.Modelo.Testes;
+
+import Banco.Modelo.Conta;
+import Banco.Modelo.contaCorrente;
+
 public class testaReferencia {
     public static void main(String[] args) {
         Conta primeiraConta = new contaCorrente();
@@ -10,14 +15,14 @@ public class testaReferencia {
         System.out.println("primeira conta tem " + primeiraConta.getSaldo());
         System.out.println("segunda conta tem " + segundaConta.getSaldo());
 
-        segundaConta.agencia = "146";
-        System.out.println(primeiraConta.agencia);
-        System.out.println(primeiraConta.numero);
+        segundaConta.setAgencia("146");
+        System.out.println(primeiraConta.getAgencia());
+        System.out.println(primeiraConta.getAgencia());
 
-        System.out.println(segundaConta.agencia);
+        System.out.println(segundaConta.getAgencia());
 
-        segundaConta.agencia = "146";
-        System.out.println("agora a segunda conta está na agencia " + segundaConta.agencia);
+        segundaConta.setAgencia("146");
+        System.out.println("agora a segunda conta está na agencia " + segundaConta.getAgencia());
 
         if (primeiraConta == segundaConta) {
             System.out.println("mesma conta");

@@ -1,3 +1,10 @@
+package Banco.Modelo.Testes;
+
+
+import Banco.Modelo.Conta;
+import Banco.Modelo.Pessoa;
+import Banco.Modelo.contaCorrente;
+
 public class testaBanco {
     public static void main(String[] args) {
         Pessoa Paulo = new Pessoa();
