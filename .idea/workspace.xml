@@ -10,18 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JAVA_oo_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testeLibs/libs/JAVA-oo.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testeLibs/src/Bytebank/Modelo/testeLib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testeLibs/testeLibs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JAVA_oo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-util/JAVA-util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-util/src/guardaContas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-util/src/testeContas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-util/src/testeIdades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testaBanco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testaMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testaMetodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testeContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testeContas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testePrivate.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testePrivate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +77,7 @@
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.testeContas">
+  <component name="RunManager" selected="Application.testeContas (1)">
     <configuration name="Testes.testeSaca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Testes.testeSaca" />
       <module name="JAVA-oo" />
@@ -90,16 +85,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fluxo" />
+    <configuration name="testeConexao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeConexao" />
       <module name="java-pilha" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testeConexao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testeConexao" />
-      <module name="java-pilha" />
+    <configuration name="testeContas (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeContas" />
+      <module name="JAVA-util" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,20 +112,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testeExcecao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testeExcecao" />
-      <module name="java-pilha" />
+    <configuration name="testeIdades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeIdades" />
+      <module name="JAVA-util" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testeContas (1)" />
+        <item itemvalue="Application.testeIdades" />
         <item itemvalue="Application.testeContas" />
         <item itemvalue="Application.testeConexao" />
         <item itemvalue="Application.Testes.testeSaca" />
-        <item itemvalue="Application.testeExcecao" />
-        <item itemvalue="Application.fluxo" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675959463363</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="novo exercicio">
+      <created>1675969003853</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1675969003853</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

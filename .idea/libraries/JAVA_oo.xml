@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JAVA-oo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testeLibs/libs/JAVA-oo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

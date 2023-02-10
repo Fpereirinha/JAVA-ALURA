@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JAVA-oo/JAVA-oo.iml" filepath="$PROJECT_DIR$/JAVA-oo/JAVA-oo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA-util/JAVA-util.iml" filepath="$PROJECT_DIR$/JAVA-util/JAVA-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-alura.iml" filepath="$PROJECT_DIR$/java-alura.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-pilha/java-pilha.iml" filepath="$PROJECT_DIR$/java-pilha/java-pilha.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-polimorfismo/java-polimorfismo.iml" filepath="$PROJECT_DIR$/java-polimorfismo/java-polimorfismo.iml" />
