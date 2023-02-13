@@ -28,6 +28,11 @@ public class contaCorrente extends Conta implements calculaImpostos {
     }
 
     @Override
+    public String toString() {
+        return "OLOCO MEU ";
+    }
+
+    @Override
     public void saca(double valor) throws minhaExcecao {
         super.saca(valor + .1);
     }

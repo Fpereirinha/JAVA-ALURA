@@ -15,4 +15,8 @@ public class guardaContas {
     int getQtd(){
         return this.posicaoLivre;
     }
+
+    public Conta getReferencia(int pos) {
+        return this.referencias[pos];
+    }
 }

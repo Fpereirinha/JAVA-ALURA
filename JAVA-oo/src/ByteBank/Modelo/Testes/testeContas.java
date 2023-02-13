@@ -19,5 +19,6 @@ public class testeContas {
         System.out.println(cc.getSaldo() + " " + cp.getSaldo());
         cc.saca(10);
         System.out.println(cc.getSaldo());
+        System.out.println(cc);
     }
 }

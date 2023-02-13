@@ -58,6 +58,11 @@ public abstract class Conta {
     public Pessoa titular;
     private static int total;
 
+    @Override
+    public String toString() {
+        return "oi";
+    }
+
     /**
      *
      * @param valor = valor para saque
