@@ -10,15 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change afterPath="$PROJECT_DIR$/JAVA-util/src/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA-util/src/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA-util/src/linkedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testeContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Testes/testeContas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/contaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/contaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-util/src/guardaContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-util/src/guardaContas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-util/src/testeContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-util/src/testeContas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-util/src/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-util/src/Teste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +72,16 @@
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.linkedListTest">
+  <component name="RunManager" selected="Application.Teste">
     <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="List" />
+      <module name="JAVA-util" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teste" />
       <module name="JAVA-util" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,20 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testeIdades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testeIdades" />
-      <module name="JAVA-util" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teste" />
         <item itemvalue="Application.linkedListTest" />
         <item itemvalue="Application.testeContas" />
         <item itemvalue="Application.List" />
         <item itemvalue="Application.testeContas (1)" />
-        <item itemvalue="Application.testeIdades" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676055388979</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="novo exercicio">
+      <created>1676317634525</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1676317634525</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
