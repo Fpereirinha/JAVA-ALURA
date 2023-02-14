@@ -31,7 +31,8 @@ public class Teste {
         for (Conta conta : lista) {
             System.out.println(conta.getSaldo());
         }
-
+        // lambda
+        lista.sort((c1, c2) -> Double.compare(c1.getSaldo(), c2.getSaldo()));
         NumeroDaContaComparator comparator = new NumeroDaContaComparator();
 
         System.out.println("---------");
@@ -44,10 +45,12 @@ public class Teste {
                 return Double.compare(c1.getSaldo(), c2.getSaldo());
             }
         });
-
+        System.out.println("for");
         for (Conta conta : lista) {
             System.out.println(conta.getSaldo());
         }
+        System.out.println("for lamb");
+        lista.forEach((conta) -> System.out.println(conta.getSaldo()));
 
     }
 
