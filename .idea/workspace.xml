@@ -10,8 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
+      <change afterPath="$PROJECT_DIR$/javaIO/javaIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/printStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/testeCopiar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/testeEscrita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/testeResumidosEscrita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaIO/texto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texto.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-util/src/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-util/src/Teste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,47 +74,74 @@
       <recent name="Testes" />
       <recent name="testes" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.java.io" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Teste">
-    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List" />
-      <module name="JAVA-util" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Teste" />
-      <module name="JAVA-util" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="linkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedListTest" />
-      <module name="JAVA-util" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testeContas (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testeContas" />
-      <module name="JAVA-util" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testeContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ByteBank.Modelo.Testes.testeContas" />
-      <module name="JAVA-oo" />
+  <component name="RunManager" selected="Application.printStream">
+    <configuration name="br.com.alura.java.io.teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste" />
+      <module name="javaIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ByteBank.Modelo.Testes.*" />
+          <option name="PATTERN" value="br.com.alura.java.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.alura.java.io.testeCopiar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.testeCopiar" />
+      <module name="javaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.java.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.alura.java.io.testeEscrita" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.testeEscrita" />
+      <module name="javaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.java.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.printStream" />
+      <module name="javaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.java.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeResumidosEscrita" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.testeResumidosEscrita" />
+      <module name="javaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.java.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.linkedListTest" />
-        <item itemvalue="Application.testeContas" />
-        <item itemvalue="Application.List" />
-        <item itemvalue="Application.testeContas (1)" />
+        <item itemvalue="Application.printStream" />
+        <item itemvalue="Application.testeResumidosEscrita" />
+        <item itemvalue="Application.br.com.alura.java.io.testeCopiar" />
+        <item itemvalue="Application.br.com.alura.java.io.testeEscrita" />
+        <item itemvalue="Application.br.com.alura.java.io.teste" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676387572642</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="novo exercicio">
+      <created>1676388912400</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1676388912400</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
