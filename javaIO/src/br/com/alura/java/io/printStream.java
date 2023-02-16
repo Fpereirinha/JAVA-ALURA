@@ -10,7 +10,7 @@ public class printStream {
     public static void main(String[] args) throws IOException {
 
         //FileWriter fw = new FileWriter("texto2.txt");
-        PrintStream ps = new PrintStream("texto2.txt");
+        PrintStream ps = new PrintStream("texto2.txt"); // PrintWriter ps = new PrintWriter("texto2.txt")
         ps.println("Oi, Pedro");
         ps.println();
         ps.println("OIIIII");

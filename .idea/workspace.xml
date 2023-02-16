@@ -10,16 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change afterPath="$PROJECT_DIR$/javaIO/javaIO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/printStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/testeCopiar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/testeEscrita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/testeResumidosEscrita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaIO/texto.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texto.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/TesteSerializacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/TesteUnicodeEEncoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/testeCSV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-oo/src/ByteBank/Modelo/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaIO/javaIO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaIO/javaIO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/printStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaIO/src/br/com/alura/java/io/printStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +65,7 @@
       <recent name="A:\java-alura\testeLibs\libs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\java-alura" />
       <recent name="A:\java-alura\java-pilha\src" />
       <recent name="A:\java-alura\java-polimorfismo\src" />
     </key>
@@ -83,9 +82,9 @@
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.printStream">
-    <configuration name="br.com.alura.java.io.teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste" />
+  <component name="RunManager" selected="Application.TesteSerializacao">
+    <configuration name="TesteSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.TesteSerializacao" />
       <module name="javaIO" />
       <extension name="coverage">
         <pattern>
@@ -97,21 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="br.com.alura.java.io.testeCopiar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.testeCopiar" />
-      <module name="javaIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.alura.java.io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="br.com.alura.java.io.testeEscrita" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.testeEscrita" />
+    <configuration name="TesteUnicodeEEncoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.TesteUnicodeEEncoding" />
       <module name="javaIO" />
       <extension name="coverage">
         <pattern>
@@ -125,6 +111,19 @@
     </configuration>
     <configuration name="printStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.printStream" />
+      <module name="javaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.java.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.testeCSV" />
       <module name="javaIO" />
       <extension name="coverage">
         <pattern>
@@ -151,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteSerializacao" />
+        <item itemvalue="Application.testeCSV" />
+        <item itemvalue="Application.TesteUnicodeEEncoding" />
         <item itemvalue="Application.printStream" />
         <item itemvalue="Application.testeResumidosEscrita" />
-        <item itemvalue="Application.br.com.alura.java.io.testeCopiar" />
-        <item itemvalue="Application.br.com.alura.java.io.testeEscrita" />
-        <item itemvalue="Application.br.com.alura.java.io.teste" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +405,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676388912400</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="novo exercicio">
+      <created>1676481740087</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1676481740087</updated>
+    </task>
+    <task id="LOCAL-00036" summary="novo exercicio">
+      <created>1676481766181</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1676481766181</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
