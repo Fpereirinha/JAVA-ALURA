@@ -10,10 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change afterPath="$PROJECT_DIR$/JAVA8/JAVA8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA8/src/exemploCursos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA8/src/ordenaStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA8/src/Datas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +77,14 @@
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ordenaStrings">
+  <component name="RunManager" selected="Application.Datas">
+    <configuration name="Datas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Datas" />
+      <module name="JAVA8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestandoListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.TestandoListas" />
       <module name="JavaCollections" />
@@ -100,19 +104,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.alura.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.TesteSerializacao" />
-      <module name="javaIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.alura.java.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Datas" />
         <item itemvalue="Application.ordenaStrings" />
         <item itemvalue="Application.testeCursos" />
         <item itemvalue="Application.TesteListaAula" />
         <item itemvalue="Application.TestandoListas" />
-        <item itemvalue="Application.TesteSerializacao" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677079845624</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="novo exercicio">
+      <created>1677165966277</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1677165966277</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
