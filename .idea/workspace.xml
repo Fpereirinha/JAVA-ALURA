@@ -10,12 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change afterPath="$PROJECT_DIR$/JavaCollections/JavaCollections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCollections/src/br/com/alura/Aula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCollections/src/br/com/alura/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCollections/src/br/com/alura/TestandoListas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCollections/src/br/com/alura/TesteListaAula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCollections/src/br/com/alura/testeCursos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA8/JAVA8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA8/src/exemploCursos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA8/src/ordenaStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -65,6 +62,7 @@
       <recent name="A:\java-alura\testeLibs\libs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\java-alura\JAVA8\src" />
       <recent name="A:\java-alura" />
       <recent name="A:\java-alura\java-pilha\src" />
       <recent name="A:\java-alura\java-polimorfismo\src" />
@@ -82,7 +80,7 @@
       <command value="open programa.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.testeCursos">
+  <component name="RunManager" selected="Application.ordenaStrings">
     <configuration name="TestandoListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.TestandoListas" />
       <module name="JavaCollections" />
@@ -122,15 +120,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testeCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.testeCSV" />
-      <module name="javaIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.alura.java.io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="ordenaStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ordenaStrings" />
+      <module name="JAVA8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ordenaStrings" />
         <item itemvalue="Application.testeCursos" />
         <item itemvalue="Application.TesteListaAula" />
         <item itemvalue="Application.TestandoListas" />
         <item itemvalue="Application.TesteSerializacao" />
-        <item itemvalue="Application.testeCSV" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676555079816</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="novo exercicio">
+      <created>1677079845624</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1677079845624</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
