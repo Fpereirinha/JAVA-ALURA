@@ -1,4 +1,4 @@
-public class conexao implements AutoCloseable{
+public class conexao implements AutoCloseable {
 
     public conexao() {
         System.out.println("Abrindo conexao");
@@ -15,7 +15,7 @@ public class conexao implements AutoCloseable{
     }
 
     @Override
-    public void close(){
+    public void close() {
         fecha();
     }
 }

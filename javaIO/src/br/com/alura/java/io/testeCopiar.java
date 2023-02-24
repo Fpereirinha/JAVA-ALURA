@@ -20,7 +20,7 @@ public class testeCopiar {
 
         String linha = br.readLine();
 
-        while(linha != null && !linha.isEmpty()) {
+        while (linha != null && !linha.isEmpty()) {
 
             bw.write(linha);
             bw.newLine();

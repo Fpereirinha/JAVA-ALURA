@@ -10,13 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/modelo/Desempenho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/service/ReajusteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/test/java/ReajusteServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/modelo/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/modelo/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/service/BonusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/service/BonusService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUnit/src/test/java/BonusServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/java/BonusServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/service/ReajusteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/service/ReajusteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/test/java/ReajusteServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/java/ReajusteServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -469,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677256167072</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="novo exercicio">
+      <created>1677268216946</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1677268216946</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

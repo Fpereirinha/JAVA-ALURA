@@ -1,18 +1,21 @@
-import ByteBank.Modelo.*;
+import ByteBank.Modelo.Conta;
 
 
 public class guardaContas {
     private Conta[] referencias;
     private int posicaoLivre;
-    public guardaContas(){
+
+    public guardaContas() {
         this.referencias = new Conta[10];
         this.posicaoLivre = 0;
     }
-    void adiciona(Conta ref){
+
+    void adiciona(Conta ref) {
         this.referencias[posicaoLivre] = ref;
         this.posicaoLivre++;
     }
-    int getQtd(){
+
+    int getQtd() {
         return this.posicaoLivre;
     }
 

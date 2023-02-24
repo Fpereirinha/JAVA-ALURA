@@ -1,6 +1,6 @@
-public class testaConversao{
+public class testaConversao {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         float pontoFlutuante = 3.14f;
 

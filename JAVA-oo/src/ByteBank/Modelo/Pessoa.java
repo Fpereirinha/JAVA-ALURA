@@ -6,6 +6,7 @@ import java.io.Serializable;
 public class Pessoa implements Serializable {
     @Serial
     private static final long serialVersionUID = -7107715157510602191L;
+
     public Pessoa(String nome, String CPF, String profissao) {
         this.nome = nome;
         this.CPF = CPF;

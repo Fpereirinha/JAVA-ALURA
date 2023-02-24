@@ -5,7 +5,7 @@ import java.util.List;
 
 public class ordenaStrings {
     public static void main(String[] args) {
-        List<String> palavras =  new ArrayList<>();
+        List<String> palavras = new ArrayList<>();
         palavras.add("Caelumoooooo");
         palavras.add("Pedro");
         palavras.add("Pauloooo");
@@ -20,7 +20,8 @@ public class ordenaStrings {
 
     }
 }
-class lenComparable implements Comparator<String>{
+
+class lenComparable implements Comparator<String> {
 
     @Override
     public int compare(String o1, String o2) {

@@ -1,6 +1,6 @@
-import ByteBank.Modelo.*;
-
-import java.util.Arrays;
+import ByteBank.Modelo.Pessoa;
+import ByteBank.Modelo.contaCorrente;
+import ByteBank.Modelo.contaPoupanca;
 
 public class testeIdades {
     public static void main(String[] args) {

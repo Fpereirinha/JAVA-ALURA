@@ -1,8 +1,4 @@
 package br.com.alura;
-
-import br.com.alura.Aula;
-
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

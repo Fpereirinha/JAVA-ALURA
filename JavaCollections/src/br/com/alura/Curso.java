@@ -30,7 +30,8 @@ public class Curso {
     public void setInstrutor(String instrutor) {
         this.instrutor = instrutor;
     }
-    public void Adicionar(Aula aula){
+
+    public void Adicionar(Aula aula) {
         aulas.add(aula);
     }
 

@@ -1,4 +1,7 @@
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 public class exemploCursos {
@@ -34,6 +37,7 @@ public class exemploCursos {
                 .collect(Collectors.toList());
     }
 }
+
 class Curso {
     private final String nome;
     private final int alunos;

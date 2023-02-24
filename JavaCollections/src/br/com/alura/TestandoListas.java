@@ -17,8 +17,8 @@ public class TestandoListas {
         System.out.println(aulas);
         aulas.remove(0);
         System.out.println(aulas);
-        for (String item:
-             aulas) {
+        for (String item :
+                aulas) {
             System.out.printf("Aula: %s\n", item);
         }
         aulas.forEach(System.out::println);
