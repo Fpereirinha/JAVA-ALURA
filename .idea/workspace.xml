@@ -10,20 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50932c1c-cedc-4eaa-a70c-1c8b97c53f80" name="Changes" comment="novo exercicio">
-      <change afterPath="$PROJECT_DIR$/JUnit/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/JUnit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/CalculadoraTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/CalculadoraTestes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/modelo/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/service/BonusService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/main/resources/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/test/java/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/test/java/BonusServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/test/resources/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/modelo/Desempenho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/service/ReajusteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/test/java/ReajusteServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/modelo/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/modelo/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/service/BonusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/main/java/br/com/alura/tdd/service/BonusService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/test/java/BonusServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/java/BonusServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,7 +60,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_directory_selection": "A:/java-alura/JAVA-oo/src/Testes",
+    "last_directory_selection": "A:/java-alura/JUnit/src/test/java",
     "last_opened_file_path": "A:/java-alura",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -75,6 +69,10 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.java.br.com.alura.tdd.service" />
+      <recent name="main.java.br.com.alura.tdd.modelo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="A:\java-alura" />
       <recent name="A:\java-alura\testeLibs\libs" />
@@ -112,13 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Datas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Datas" />
-      <module name="JAVA8" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BonusServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnit" />
       <extension name="coverage">
@@ -143,6 +134,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReajusteServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ReajusteServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test.java in JUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnit" />
       <extension name="coverage">
@@ -160,10 +166,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BonusServiceTest" />
+        <item itemvalue="JUnit.ReajusteServiceTest" />
         <item itemvalue="JUnit.test.java in JUnit" />
         <item itemvalue="JUnit.CalculadoraTest" />
         <item itemvalue="Application.CalculadoraTestes" />
-        <item itemvalue="Application.Datas" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677177103444</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="novo exercicio">
+      <created>1677256167072</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1677256167072</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
